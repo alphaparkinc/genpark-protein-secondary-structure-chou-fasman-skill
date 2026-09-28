@@ -1,0 +1,5 @@
+name: genpark-protein-secondary-structure-chou-fasman-skill
+description: Chou-Fasman statistical conformational propensity predictor for protein secondary structure (helix, sheet, coil)
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
